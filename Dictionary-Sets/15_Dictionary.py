@@ -1,4 +1,4 @@
-#syntax
+#syntax of dictionary
 dict1 = {
     "Fast": "In a Quick Manner",
     "Kartik": "A Coder",
